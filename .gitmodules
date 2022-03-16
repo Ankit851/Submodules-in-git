@@ -1,0 +1,3 @@
+[submodule "Submodules-in-git"]
+        path = Submodules-in-git
+        url = https://github.com/Ankit851/Submodules-in-git.git
